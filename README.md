@@ -24,8 +24,7 @@ git clone https://github.com/citizenfx/cfx-server-data.git server
 apt-get install screen
 
 4. Logujesz się teraz do plików SFTP z pomocą ( winsoc, filezilla )
-5. 
-Wchodzisz w pliki /home/server/  i tam wgrywasz swoją paczke
+5. Wchodzisz w pliki /home/server/  i tam wgrywasz swoją paczke
 
 ########################## WŁAŚNIE POPRAWNIE SKONFIGUROWAŁEŚ SWÓJ SERWER ############################
 
